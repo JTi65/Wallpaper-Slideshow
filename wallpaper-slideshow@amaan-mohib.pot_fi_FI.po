@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 19:11+0530\n"
+"PO-Revision-Date: 2024-05-04 14:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. metadata.json->name
+#: applet.js:81
+msgid "Wallpaper Slideshow"
+msgstr "Taustakuvan diaesitys"
+
+#: applet.js:207
+msgid "The wallpaper path does not exists!"
+msgstr "Taustakuvan polku ei ole"
+
+#. settings-schema.json->head_delay->description
+#: applet.js:220
+msgid "Delay"
+msgstr "Viive"
+
+#: applet.js:238
+msgid "Open wallpapers directory"
+msgstr "Avaa taustakuvan kansio"
+
+#: applet.js:251
+msgid "Next"
+msgstr "Seuraava"
+
+#: applet.js:260
+msgid "Previous"
+msgstr "Edellinen"
+
+#. settings-schema.json->head_paused->description
+#: applet.js:273
+msgid "Paused"
+msgstr "Tauko"
+
+#: applet.js:287
+msgid "Preferences"
+msgstr "Asetukset"
+
+#. metadata.json->description
+msgid "Starts a wallpaper slideshow persisting across reboots"
+msgstr "Käynnistää taustakuvan diaesityksen, joka jatkuu uudelleenkäynnistyksen jälkeen"
+
+#. settings-schema.json->head_path->description
+msgid "Wallpaper path"
+msgstr "Taustakuvan polku"
+
+#. settings-schema.json->wallpaper_path->description
+msgid "Specify path of the wallpaper directory"
+msgstr "Määritä taustakuvahakemiston polku"
+
+#. settings-schema.json->wallpaper_path->tooltip
+msgid "For example: /home/username/Pictures/wallpapers"
+msgstr "Esimerkiksi /koti/käyttäjä/Kuvat/taustakuvat"
+
+#. settings-schema.json->wallpaper_delay->description
+msgid "Specify the delay to change the wallpaper (in seconds)"
+msgstr "Määritä taustakuvan vaihtamisen viive (sekunneissa)"
+
+#. settings-schema.json->wallpaper_delay->tooltip
+msgid "For example: 86400 for 24hrs"
+msgstr "Esimerkiksi : 86400 for 24hrs"
+
+#. settings-schema.json->head_timer->description
+msgid "Custom interval"
+msgstr "Mukautettu aikaväli"
+
+#. settings-schema.json->wallpaper_custom_timer->description
+msgid "Specify a custom interval to check for updates"
+msgstr "Määritä mukautettu aikaväli päivitysten tarkistamista varten"
+
+#. settings-schema.json->wallpaper_custom_timer->tooltip
+msgid "Default: 1hr"
+msgstr "Oletus: 1 tunti"
+
+#. settings-schema.json->wallpaper_timer->description
+msgid "Specify the interval (in seconds) to check for updates"
+msgstr "Määritä päivitysten tarkistamisen aikaväli (sekunteina)."
+
+#. settings-schema.json->wallpaper_timer->tooltip
+msgid "For example: 3600 for 1hr"
+msgstr "Esimerkiksi:  3600 for 1 tunnissa"
+
+#. settings-schema.json->wallpaper_paused->description
+msgid "Pause the wallpaper slideshow"
+msgstr "Tauota taustakuvan diaesitys"
